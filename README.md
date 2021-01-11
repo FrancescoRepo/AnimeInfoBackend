@@ -21,3 +21,5 @@ This is the Backend part of the app MyAnimeInfo. It's an ExpressJS Server that i
   
   This command will start the server and will take it on until you close it. 
   
+## License
+AnimeInfoBackend is available under the MIT license. See the LICENSE file for more info.
